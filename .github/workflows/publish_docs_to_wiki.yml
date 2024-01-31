@@ -4,7 +4,7 @@ name: Publish docs to Wiki
 on:
   push:
     paths:
-      - doc/** # This includes all sub folders
+      - docs/** # This includes all sub folders
     branches:
       - main # This can be changed to any branch of your preference
 
