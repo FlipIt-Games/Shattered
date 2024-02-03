@@ -26,6 +26,7 @@ The dash ability is made up of 3 stages:
 - The character enters this stage when the Action is triggered
 - The character's [movement abilities](move.md) gets locked (he doesn't move anymore). 
 - Direction is recorded, if no direction is provided the current orientation of the character is used
+- If the player press the [light attack](light_attack.md#action) action he then performs a [dash attack](dash_attack.md)
 
 2. ### Dashing
 - Direction gets locked and the input is no longer recorded
@@ -42,5 +43,3 @@ The dash ability is made up of 3 stages:
 - DashTime
 - RecoveryTime
 - Distance: The distance travelled during the dashing stage
-
-## Other Requierements
