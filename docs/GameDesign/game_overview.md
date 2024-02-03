@@ -3,11 +3,17 @@
 ## Data Sheet
 
 **Game Name:** Shattared (Temporary)
+
 **Team:** FlipIt
+
 **Engine:** Godot4
+
 **Genre:** Action-Adventure
+
 **Players:** Single player
+
 **Target platformes:** PC, Nintendo Switch, PS5, Xbox Series
+
 **Target audience:** Gamers with a kin interrest into challenging action combat game and deep ambiance
 
 ## Overall concept and intent
